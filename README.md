@@ -2,7 +2,7 @@
 ### Software Engineer & AI/ML Engineer
 - 🌱 Always researching on **Deep Learning, Reinforcement Learning, and scalable architectures**  
 - 💡 Passionate about solving real-world problems, building products, and contributing to open-source  
-- 💬 Ask me about **AI, Machine Learning, Web Development, and Blockchain**  
+- 💬 Ask me about **AI, Machine Learning, Web Development & Mobile App**  
 - 📫 Reach me at **devishmael@icloud.com**  
 
 
